@@ -10,4 +10,4 @@ CS sophomore @SUSTC (2024 cohort).
 
 ![](https://komarev.com/ghpvc/?username=feitianduowen&color=00FFFF)
 
-![](https://github-readme-stats.vercel.app/api?username=feitianduowen&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=feitianduowen&custom_title=GitHub+Stats&theme=dracula&title_color=bae1fc&text_color=dff8e1&icon_color=4c71f2&ring_color=a2a1f9&border_color=b8bafa&hide_border=true&locale=en&border_radius=4.6&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
