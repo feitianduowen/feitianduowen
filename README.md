@@ -12,4 +12,6 @@ CS sophomore @SUSTC (2024 cohort).
 
 ![](https://komarev.com/ghpvc/?username=feitianduowen&color=00FFFF)
 
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feitianduowen&theme=date_night)
+![Top Languages by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feitianduowen&theme=date_night)
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=feitianduowen&custom_title=GitHub+Stats&theme=dracula&title_color=bae1fc&text_color=dff8e1&icon_color=4c71f2&ring_color=a2a1f9&border_color=b8bafa&hide_border=true&locale=en&border_radius=4.6&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
