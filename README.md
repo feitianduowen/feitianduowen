@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-CS sophomore @SUSTC (2024 Junior).
+CS Junior @SUSTC (2024 cohort).
 
 - 🔭 I’m currently working on preparing for the APAC HPC/AI competition, interning on agent-related projects, and contributing to OpenCV.
 - 🌱 I’m currently learning AI infrastructure and GPU architecture.
