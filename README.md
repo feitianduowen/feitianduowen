@@ -8,8 +8,6 @@ CS Junior @SUSTC (2024 cohort).
 - 🤔 I’m looking for help with performance optimization for large-scale systems and GPU programming tips.
 - 📫 How to reach me: QQ alt 935797227
 
-捞捞9月份数学建模队友。
-
 ![](https://komarev.com/ghpvc/?username=feitianduowen&color=00FFFF)
 
 ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feitianduowen&theme=date_night)
