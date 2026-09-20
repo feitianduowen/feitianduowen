@@ -6,7 +6,12 @@ CS Junior @SUSTC (2024 cohort).
 - 🌱 I’m currently learning AI infrastructure and GPU architecture.
 - 👯 I’m looking to collaborate on math modeling, HPC, and software engineering competitions with SUSTech teammates.
 - 🤔 I’m looking for help with performance optimization for large-scale systems and GPU programming tips.
-- 📫 How to reach me: QQ alt 935797227
+- 📫 How to reach me: QQ alt 935797227 or Che53438@gmail.com(I rarely check this email, so QQ is preferred.)
+
+ Recently deeply invested on designing (Out-of-Order Superscalar) [RISC-V CPU](http://www.fpgachina.cn/index.html) and LLM Inference Acceleration([PD disaggregation](https://www.hpcadvisorycouncil.com/events/2026/APAC-AI-HPC/benchmarking.php) and [KV Cache Optimization](https://flagos.io/race-detail-season2?id=539vlt2p)).
+
+My Group Project I also focuses on PD Disaggregation vs Collocation.
+
 
 ![](https://komarev.com/ghpvc/?username=feitianduowen&color=00FFFF)
 
